@@ -1,3 +1,3 @@
 # exampledelcampo
 
-https://carlosdrf.github.io/exampledelcampo/
+ https://carlosdrf.github.io/delcampo-propuesta/
